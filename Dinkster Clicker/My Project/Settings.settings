@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumRings" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="NumRPS" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SkimMil1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SkimMilk10" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SkimMilk50" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SkimMilk250" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Cow1" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="NoSound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SkimMilk1Cost" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+    <Setting Name="SkimMilk10Cost" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">2056</Value>
+    </Setting>
+    <Setting Name="SkimMilk50Cost" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">12800</Value>
+    </Setting>
+    <Setting Name="SkimMilk250Cost" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">64000</Value>
+    </Setting>
+    <Setting Name="Cow1Cost" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3840000</Value>
+    </Setting>
+    <Setting Name="DoEachOnce" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="GameBeaten" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Cow5Cost" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">19200000</Value>
+    </Setting>
+    <Setting Name="Cow30Cost" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">115200000</Value>
+    </Setting>
+    <Setting Name="Cow100Cost" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">384000000</Value>
+    </Setting>
+    <Setting Name="Cow5" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Cow30" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Cow100" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MessageOpen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RingMultiplier" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LimitReached" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IncreaseShippingRate" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

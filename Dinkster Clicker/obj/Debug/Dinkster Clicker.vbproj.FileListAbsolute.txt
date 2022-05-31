@@ -1,0 +1,73 @@
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe.config
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.pdb
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.xml
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.Resources.resources
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.GenerateResource.Cache
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.exe
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.xml
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.pdb
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmClicker.resources
+c:\users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmSupplies.resources
+C:\Users\dallasroberts\documents\visual studio 2013\Projects\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe.config
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.pdb
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCheats.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmClicker.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmSupplies.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.Resources.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.pdb
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmMessage.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe.config
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.exe
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.xml
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.pdb
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.pdb
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\bin\Debug\Dinkster Clicker.xml
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCheats.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmClicker.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmMessage.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmSupplies.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.Resources.resources
+C:\Users\dallasroberts\Downloads\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe.config
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\bin\Debug\Dinkster Clicker.pdb
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\bin\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCheats.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmClicker.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmMessage.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmSupplies.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster_Clicker.Resources.resources
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker (1)\Dinkster Clicker\obj\Debug\Dinkster Clicker.pdb
+C:\Users\Dallas\Google Drive\Drive\Dinkster Clicker\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCustomOrder.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe.config
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\bin\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\bin\Debug\Dinkster Clicker.pdb
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\bin\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCheats.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmClicker.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmCustomOrder.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmMessage.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.frmSupplies.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster_Clicker.Resources.resources
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.GenerateResource.Cache
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.exe
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.xml
+C:\Users\Dallas\Dropbox\Visual Studio Projects\Visual Basic\Dinkster Clicker - FINAL RELEASE\Dinkster Clicker\obj\Debug\Dinkster Clicker.pdb
